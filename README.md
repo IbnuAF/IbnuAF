@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibnu Al Fatori</h1>
 <h3 align="center">My name is Ibnu Al Fatori, i am currently a student at Padang State University and i study informatics there my NIM is 24343056, im currently working on some basic c program</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnuaf&label=Profile%20views&color=0e75b6&style=flat" alt="ibnuaf" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ibnuaf&label=Profile%20views&color=0e75b6&style=flat" alt="ibnuaf" /> </p>
 
 - 📫 How to reach me **ibnualfatori2306@gmail.com**
 
