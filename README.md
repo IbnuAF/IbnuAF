@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ibnu Al Fatori</h1>
 <h3 align="center">My name is Ibnu Al Fatori, i am currently a student at Padang State University and i study informatics there my NIM is 24343056, im currently working on some basic c program</h3>
 
@@ -16,3 +14,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnuaf&show_icons=true&locale=en" alt="ibnuaf" /></p>
